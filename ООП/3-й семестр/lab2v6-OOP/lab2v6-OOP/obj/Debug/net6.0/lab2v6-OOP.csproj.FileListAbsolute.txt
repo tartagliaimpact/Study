@@ -1,0 +1,15 @@
+C:\Users\Arsik\Desktop\lab2v6-OOP\lab2v6-OOP\bin\Debug\net6.0\lab2v6-OOP.exe
+C:\Users\Arsik\Desktop\lab2v6-OOP\lab2v6-OOP\bin\Debug\net6.0\lab2v6-OOP.deps.json
+C:\Users\Arsik\Desktop\lab2v6-OOP\lab2v6-OOP\bin\Debug\net6.0\lab2v6-OOP.runtimeconfig.json
+C:\Users\Arsik\Desktop\lab2v6-OOP\lab2v6-OOP\bin\Debug\net6.0\lab2v6-OOP.dll
+C:\Users\Arsik\Desktop\lab2v6-OOP\lab2v6-OOP\bin\Debug\net6.0\ref\lab2v6-OOP.dll
+C:\Users\Arsik\Desktop\lab2v6-OOP\lab2v6-OOP\bin\Debug\net6.0\lab2v6-OOP.pdb
+C:\Users\Arsik\Desktop\lab2v6-OOP\lab2v6-OOP\obj\Debug\net6.0\lab2v6-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsik\Desktop\lab2v6-OOP\lab2v6-OOP\obj\Debug\net6.0\lab2v6-OOP.AssemblyInfoInputs.cache
+C:\Users\Arsik\Desktop\lab2v6-OOP\lab2v6-OOP\obj\Debug\net6.0\lab2v6-OOP.AssemblyInfo.cs
+C:\Users\Arsik\Desktop\lab2v6-OOP\lab2v6-OOP\obj\Debug\net6.0\lab2v6-OOP.csproj.CoreCompileInputs.cache
+C:\Users\Arsik\Desktop\lab2v6-OOP\lab2v6-OOP\obj\Debug\net6.0\lab2v6-OOP.dll
+C:\Users\Arsik\Desktop\lab2v6-OOP\lab2v6-OOP\obj\Debug\net6.0\ref\lab2v6-OOP.dll
+C:\Users\Arsik\Desktop\lab2v6-OOP\lab2v6-OOP\obj\Debug\net6.0\lab2v6-OOP.pdb
+C:\Users\Arsik\Desktop\lab2v6-OOP\lab2v6-OOP\obj\Debug\net6.0\lab2v6-OOP.genruntimeconfig.cache
+C:\Users\Arsik\Desktop\lab2v6-OOP\lab2v6-OOP\obj\Debug\net6.0\lab2v6-OOP.csproj.AssemblyReference.cache
