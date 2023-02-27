@@ -1,0 +1,29 @@
+C:\Users\Arsik\Desktop\ПП-лаб1\ПП-лаб1\bin\Debug\net6.0\ПП-лаб1.exe
+C:\Users\Arsik\Desktop\ПП-лаб1\ПП-лаб1\bin\Debug\net6.0\ПП-лаб1.deps.json
+C:\Users\Arsik\Desktop\ПП-лаб1\ПП-лаб1\bin\Debug\net6.0\ПП-лаб1.runtimeconfig.json
+C:\Users\Arsik\Desktop\ПП-лаб1\ПП-лаб1\bin\Debug\net6.0\ПП-лаб1.dll
+C:\Users\Arsik\Desktop\ПП-лаб1\ПП-лаб1\bin\Debug\net6.0\ref\ПП-лаб1.dll
+C:\Users\Arsik\Desktop\ПП-лаб1\ПП-лаб1\bin\Debug\net6.0\ПП-лаб1.pdb
+C:\Users\Arsik\Desktop\ПП-лаб1\ПП-лаб1\obj\Debug\net6.0\ПП-лаб1.csproj.AssemblyReference.cache
+C:\Users\Arsik\Desktop\ПП-лаб1\ПП-лаб1\obj\Debug\net6.0\ПП-лаб1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsik\Desktop\ПП-лаб1\ПП-лаб1\obj\Debug\net6.0\ПП-лаб1.AssemblyInfoInputs.cache
+C:\Users\Arsik\Desktop\ПП-лаб1\ПП-лаб1\obj\Debug\net6.0\ПП-лаб1.AssemblyInfo.cs
+C:\Users\Arsik\Desktop\ПП-лаб1\ПП-лаб1\obj\Debug\net6.0\ПП-лаб1.csproj.CoreCompileInputs.cache
+C:\Users\Arsik\Desktop\ПП-лаб1\ПП-лаб1\obj\Debug\net6.0\ПП-лаб1.dll
+C:\Users\Arsik\Desktop\ПП-лаб1\ПП-лаб1\obj\Debug\net6.0\ref\ПП-лаб1.dll
+C:\Users\Arsik\Desktop\ПП-лаб1\ПП-лаб1\obj\Debug\net6.0\ПП-лаб1.pdb
+C:\Users\Arsik\Desktop\ПП-лаб1\ПП-лаб1\obj\Debug\net6.0\ПП-лаб1.genruntimeconfig.cache
+C:\Users\Arsik\Desktop\институт\4-й семестр\ПП\ПП-лаб1\ПП-лаб1\bin\Debug\net6.0\ПП-лаб1.exe
+C:\Users\Arsik\Desktop\институт\4-й семестр\ПП\ПП-лаб1\ПП-лаб1\bin\Debug\net6.0\ПП-лаб1.deps.json
+C:\Users\Arsik\Desktop\институт\4-й семестр\ПП\ПП-лаб1\ПП-лаб1\bin\Debug\net6.0\ПП-лаб1.runtimeconfig.json
+C:\Users\Arsik\Desktop\институт\4-й семестр\ПП\ПП-лаб1\ПП-лаб1\bin\Debug\net6.0\ПП-лаб1.dll
+C:\Users\Arsik\Desktop\институт\4-й семестр\ПП\ПП-лаб1\ПП-лаб1\bin\Debug\net6.0\ref\ПП-лаб1.dll
+C:\Users\Arsik\Desktop\институт\4-й семестр\ПП\ПП-лаб1\ПП-лаб1\bin\Debug\net6.0\ПП-лаб1.pdb
+C:\Users\Arsik\Desktop\институт\4-й семестр\ПП\ПП-лаб1\ПП-лаб1\obj\Debug\net6.0\ПП-лаб1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsik\Desktop\институт\4-й семестр\ПП\ПП-лаб1\ПП-лаб1\obj\Debug\net6.0\ПП-лаб1.AssemblyInfoInputs.cache
+C:\Users\Arsik\Desktop\институт\4-й семестр\ПП\ПП-лаб1\ПП-лаб1\obj\Debug\net6.0\ПП-лаб1.AssemblyInfo.cs
+C:\Users\Arsik\Desktop\институт\4-й семестр\ПП\ПП-лаб1\ПП-лаб1\obj\Debug\net6.0\ПП-лаб1.csproj.CoreCompileInputs.cache
+C:\Users\Arsik\Desktop\институт\4-й семестр\ПП\ПП-лаб1\ПП-лаб1\obj\Debug\net6.0\ПП-лаб1.dll
+C:\Users\Arsik\Desktop\институт\4-й семестр\ПП\ПП-лаб1\ПП-лаб1\obj\Debug\net6.0\ref\ПП-лаб1.dll
+C:\Users\Arsik\Desktop\институт\4-й семестр\ПП\ПП-лаб1\ПП-лаб1\obj\Debug\net6.0\ПП-лаб1.pdb
+C:\Users\Arsik\Desktop\институт\4-й семестр\ПП\ПП-лаб1\ПП-лаб1\obj\Debug\net6.0\ПП-лаб1.genruntimeconfig.cache
