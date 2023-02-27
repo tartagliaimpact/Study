@@ -1,0 +1,14 @@
+{
+    "Lib": [
+      {
+        "Book": {
+          "EditionName": "КнигаJson",
+          "Name": "АвторJson",
+          "Cutter": "176",
+          "PublicherName": "ИздательJson",
+          "Year": 2017,
+          "Cost": 23
+        }
+      }
+    ]
+  }
