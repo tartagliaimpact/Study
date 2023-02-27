@@ -1,0 +1,15 @@
+C:\Users\Arsik\Desktop\lab1-OOP\lab1-OOP\bin\Debug\net6.0\lab1-OOP.exe
+C:\Users\Arsik\Desktop\lab1-OOP\lab1-OOP\bin\Debug\net6.0\lab1-OOP.deps.json
+C:\Users\Arsik\Desktop\lab1-OOP\lab1-OOP\bin\Debug\net6.0\lab1-OOP.runtimeconfig.json
+C:\Users\Arsik\Desktop\lab1-OOP\lab1-OOP\bin\Debug\net6.0\lab1-OOP.dll
+C:\Users\Arsik\Desktop\lab1-OOP\lab1-OOP\bin\Debug\net6.0\ref\lab1-OOP.dll
+C:\Users\Arsik\Desktop\lab1-OOP\lab1-OOP\bin\Debug\net6.0\lab1-OOP.pdb
+C:\Users\Arsik\Desktop\lab1-OOP\lab1-OOP\obj\Debug\net6.0\lab1-OOP.csproj.AssemblyReference.cache
+C:\Users\Arsik\Desktop\lab1-OOP\lab1-OOP\obj\Debug\net6.0\lab1-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsik\Desktop\lab1-OOP\lab1-OOP\obj\Debug\net6.0\lab1-OOP.AssemblyInfoInputs.cache
+C:\Users\Arsik\Desktop\lab1-OOP\lab1-OOP\obj\Debug\net6.0\lab1-OOP.AssemblyInfo.cs
+C:\Users\Arsik\Desktop\lab1-OOP\lab1-OOP\obj\Debug\net6.0\lab1-OOP.csproj.CoreCompileInputs.cache
+C:\Users\Arsik\Desktop\lab1-OOP\lab1-OOP\obj\Debug\net6.0\lab1-OOP.dll
+C:\Users\Arsik\Desktop\lab1-OOP\lab1-OOP\obj\Debug\net6.0\ref\lab1-OOP.dll
+C:\Users\Arsik\Desktop\lab1-OOP\lab1-OOP\obj\Debug\net6.0\lab1-OOP.pdb
+C:\Users\Arsik\Desktop\lab1-OOP\lab1-OOP\obj\Debug\net6.0\lab1-OOP.genruntimeconfig.cache
