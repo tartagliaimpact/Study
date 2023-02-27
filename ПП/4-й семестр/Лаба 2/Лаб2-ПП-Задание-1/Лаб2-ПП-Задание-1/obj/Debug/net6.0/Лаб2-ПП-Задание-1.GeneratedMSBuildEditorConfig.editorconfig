@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Лаб2_ПП_Задание_1
+build_property.ProjectDir = C:\Users\Arsik\Desktop\институт\4-й семестр\ПП\Лаба 2\Лаб2-ПП-Задание-1\Лаб2-ПП-Задание-1\

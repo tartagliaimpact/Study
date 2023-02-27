@@ -1,0 +1,15 @@
+C:\Users\Arsik\Desktop\Лаб2-ПП-Задание-1\Лаб2-ПП-Задание-1\bin\Debug\net6.0\Лаб2-ПП-Задание-1.exe
+C:\Users\Arsik\Desktop\Лаб2-ПП-Задание-1\Лаб2-ПП-Задание-1\bin\Debug\net6.0\Лаб2-ПП-Задание-1.deps.json
+C:\Users\Arsik\Desktop\Лаб2-ПП-Задание-1\Лаб2-ПП-Задание-1\bin\Debug\net6.0\Лаб2-ПП-Задание-1.runtimeconfig.json
+C:\Users\Arsik\Desktop\Лаб2-ПП-Задание-1\Лаб2-ПП-Задание-1\bin\Debug\net6.0\Лаб2-ПП-Задание-1.dll
+C:\Users\Arsik\Desktop\Лаб2-ПП-Задание-1\Лаб2-ПП-Задание-1\bin\Debug\net6.0\ref\Лаб2-ПП-Задание-1.dll
+C:\Users\Arsik\Desktop\Лаб2-ПП-Задание-1\Лаб2-ПП-Задание-1\bin\Debug\net6.0\Лаб2-ПП-Задание-1.pdb
+C:\Users\Arsik\Desktop\Лаб2-ПП-Задание-1\Лаб2-ПП-Задание-1\obj\Debug\net6.0\Лаб2-ПП-Задание-1.csproj.AssemblyReference.cache
+C:\Users\Arsik\Desktop\Лаб2-ПП-Задание-1\Лаб2-ПП-Задание-1\obj\Debug\net6.0\Лаб2-ПП-Задание-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsik\Desktop\Лаб2-ПП-Задание-1\Лаб2-ПП-Задание-1\obj\Debug\net6.0\Лаб2-ПП-Задание-1.AssemblyInfoInputs.cache
+C:\Users\Arsik\Desktop\Лаб2-ПП-Задание-1\Лаб2-ПП-Задание-1\obj\Debug\net6.0\Лаб2-ПП-Задание-1.AssemblyInfo.cs
+C:\Users\Arsik\Desktop\Лаб2-ПП-Задание-1\Лаб2-ПП-Задание-1\obj\Debug\net6.0\Лаб2-ПП-Задание-1.csproj.CoreCompileInputs.cache
+C:\Users\Arsik\Desktop\Лаб2-ПП-Задание-1\Лаб2-ПП-Задание-1\obj\Debug\net6.0\Лаб2-ПП-Задание-1.dll
+C:\Users\Arsik\Desktop\Лаб2-ПП-Задание-1\Лаб2-ПП-Задание-1\obj\Debug\net6.0\ref\Лаб2-ПП-Задание-1.dll
+C:\Users\Arsik\Desktop\Лаб2-ПП-Задание-1\Лаб2-ПП-Задание-1\obj\Debug\net6.0\Лаб2-ПП-Задание-1.pdb
+C:\Users\Arsik\Desktop\Лаб2-ПП-Задание-1\Лаб2-ПП-Задание-1\obj\Debug\net6.0\Лаб2-ПП-Задание-1.genruntimeconfig.cache
