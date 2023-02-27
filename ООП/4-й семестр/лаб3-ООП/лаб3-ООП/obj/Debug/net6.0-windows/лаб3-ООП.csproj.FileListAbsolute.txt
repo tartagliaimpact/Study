@@ -1,0 +1,36 @@
+C:\Users\Arsik\Desktop\лаб3-ООП\лаб3-ООП\bin\Debug\net6.0-windows\лаб3-ООП.exe
+C:\Users\Arsik\Desktop\лаб3-ООП\лаб3-ООП\bin\Debug\net6.0-windows\лаб3-ООП.deps.json
+C:\Users\Arsik\Desktop\лаб3-ООП\лаб3-ООП\bin\Debug\net6.0-windows\лаб3-ООП.runtimeconfig.json
+C:\Users\Arsik\Desktop\лаб3-ООП\лаб3-ООП\bin\Debug\net6.0-windows\лаб3-ООП.dll
+C:\Users\Arsik\Desktop\лаб3-ООП\лаб3-ООП\bin\Debug\net6.0-windows\ref\лаб3-ООП.dll
+C:\Users\Arsik\Desktop\лаб3-ООП\лаб3-ООП\bin\Debug\net6.0-windows\лаб3-ООП.pdb
+C:\Users\Arsik\Desktop\лаб3-ООП\лаб3-ООП\obj\Debug\net6.0-windows\лаб3-ООП.csproj.AssemblyReference.cache
+C:\Users\Arsik\Desktop\лаб3-ООП\лаб3-ООП\obj\Debug\net6.0-windows\лаб3_ООП.Form1.resources
+C:\Users\Arsik\Desktop\лаб3-ООП\лаб3-ООП\obj\Debug\net6.0-windows\лаб3-ООП.csproj.GenerateResource.cache
+C:\Users\Arsik\Desktop\лаб3-ООП\лаб3-ООП\obj\Debug\net6.0-windows\лаб3-ООП.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsik\Desktop\лаб3-ООП\лаб3-ООП\obj\Debug\net6.0-windows\лаб3-ООП.AssemblyInfoInputs.cache
+C:\Users\Arsik\Desktop\лаб3-ООП\лаб3-ООП\obj\Debug\net6.0-windows\лаб3-ООП.AssemblyInfo.cs
+C:\Users\Arsik\Desktop\лаб3-ООП\лаб3-ООП\obj\Debug\net6.0-windows\лаб3-ООП.csproj.CoreCompileInputs.cache
+C:\Users\Arsik\Desktop\лаб3-ООП\лаб3-ООП\obj\Debug\net6.0-windows\лаб3-ООП.dll
+C:\Users\Arsik\Desktop\лаб3-ООП\лаб3-ООП\obj\Debug\net6.0-windows\ref\лаб3-ООП.dll
+C:\Users\Arsik\Desktop\лаб3-ООП\лаб3-ООП\obj\Debug\net6.0-windows\лаб3-ООП.pdb
+C:\Users\Arsik\Desktop\лаб3-ООП\лаб3-ООП\obj\Debug\net6.0-windows\лаб3-ООП.genruntimeconfig.cache
+C:\Users\Arsik\Desktop\институт\4-й семестр\ООП\лаб3-ООП\лаб3-ООП\bin\Debug\net6.0-windows\лаб3-ООП.exe
+C:\Users\Arsik\Desktop\институт\4-й семестр\ООП\лаб3-ООП\лаб3-ООП\bin\Debug\net6.0-windows\лаб3-ООП.deps.json
+C:\Users\Arsik\Desktop\институт\4-й семестр\ООП\лаб3-ООП\лаб3-ООП\bin\Debug\net6.0-windows\лаб3-ООП.runtimeconfig.json
+C:\Users\Arsik\Desktop\институт\4-й семестр\ООП\лаб3-ООП\лаб3-ООП\bin\Debug\net6.0-windows\лаб3-ООП.dll
+C:\Users\Arsik\Desktop\институт\4-й семестр\ООП\лаб3-ООП\лаб3-ООП\bin\Debug\net6.0-windows\ref\лаб3-ООП.dll
+C:\Users\Arsik\Desktop\институт\4-й семестр\ООП\лаб3-ООП\лаб3-ООП\bin\Debug\net6.0-windows\лаб3-ООП.pdb
+C:\Users\Arsik\Desktop\институт\4-й семестр\ООП\лаб3-ООП\лаб3-ООП\obj\Debug\net6.0-windows\лаб3_ООП.Form1.resources
+C:\Users\Arsik\Desktop\институт\4-й семестр\ООП\лаб3-ООП\лаб3-ООП\obj\Debug\net6.0-windows\лаб3-ООП.csproj.GenerateResource.cache
+C:\Users\Arsik\Desktop\институт\4-й семестр\ООП\лаб3-ООП\лаб3-ООП\obj\Debug\net6.0-windows\лаб3-ООП.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsik\Desktop\институт\4-й семестр\ООП\лаб3-ООП\лаб3-ООП\obj\Debug\net6.0-windows\лаб3-ООП.AssemblyInfoInputs.cache
+C:\Users\Arsik\Desktop\институт\4-й семестр\ООП\лаб3-ООП\лаб3-ООП\obj\Debug\net6.0-windows\лаб3-ООП.AssemblyInfo.cs
+C:\Users\Arsik\Desktop\институт\4-й семестр\ООП\лаб3-ООП\лаб3-ООП\obj\Debug\net6.0-windows\лаб3-ООП.csproj.CoreCompileInputs.cache
+C:\Users\Arsik\Desktop\институт\4-й семестр\ООП\лаб3-ООП\лаб3-ООП\obj\Debug\net6.0-windows\лаб3-ООП.dll
+C:\Users\Arsik\Desktop\институт\4-й семестр\ООП\лаб3-ООП\лаб3-ООП\obj\Debug\net6.0-windows\ref\лаб3-ООП.dll
+C:\Users\Arsik\Desktop\институт\4-й семестр\ООП\лаб3-ООП\лаб3-ООП\obj\Debug\net6.0-windows\лаб3-ООП.pdb
+C:\Users\Arsik\Desktop\институт\4-й семестр\ООП\лаб3-ООП\лаб3-ООП\obj\Debug\net6.0-windows\лаб3-ООП.genruntimeconfig.cache
+C:\Users\Arsik\Desktop\институт\4-й семестр\ООП\лаб3-ООП\лаб3-ООП\obj\Debug\net6.0-windows\лаб3-ООП.csproj.AssemblyReference.cache
+C:\Users\Arsik\Desktop\институт\4-й семестр\ООП\лаб3-ООП\лаб3-ООП\obj\Debug\net6.0-windows\лаб3_ООП.SearchForm.resources
+C:\Users\Arsik\Desktop\институт\4-й семестр\ООП\лаб3-ООП\лаб3-ООП\obj\Debug\net6.0-windows\лаб3_ООП.Properties.Resources.resources
