@@ -1,0 +1,26 @@
+$Recycle.Bin
+$WinREAgent
+bd
+Boot
+BSTU
+Config.Msi
+Documents and Settings
+DRIVERS
+DrWeb Quarantine
+Games
+Intel
+Microsoft
+Mono
+msys64
+PerfLogs
+Program Files
+Program Files (x86)
+ProgramData
+Recovery
+SQL2019
+System
+System Volume Information
+System64
+Users
+Windows
+Игры

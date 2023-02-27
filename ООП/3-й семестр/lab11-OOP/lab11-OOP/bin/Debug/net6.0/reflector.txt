@@ -1,0 +1,925 @@
+
+lab11-OOP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, System.String)
+Void .ctor(System.String, System.String, Int32, Int32)
+Void .ctor()
+
+
+get_Name
+set_Name
+get_Author
+set_Author
+get_Publish
+set_Publish
+get_Year
+set_Year
+get_NumP
+set_NumP
+get_Price
+set_Price
+get_BindingType
+set_BindingType
+get_id
+get_forSet
+ToString
+GetHashCode
+Equals
+GetType
+
+
+Поля : 
+Свойства : 
+Name
+Author
+Publish
+Year
+NumP
+Price
+BindingType
+id
+forSet
+
+
+
+
+Int32 value
+Int32 value
+Int32 value
+
+
+lab11-OOP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+
+Void .ctor()
+
+
+Print
+Find
+Computers_CollectionChanged
+Clear
+Contains
+Remove
+get_Count
+GetEnumerator
+GetObjectData
+OnDeserialization
+Add
+TryGetValue
+UnionWith
+IntersectWith
+ExceptWith
+SymmetricExceptWith
+IsSubsetOf
+IsProperSubsetOf
+IsSupersetOf
+IsProperSupersetOf
+Overlaps
+SetEquals
+CopyTo
+CopyTo
+CopyTo
+RemoveWhere
+get_Comparer
+EnsureCapacity
+TrimExcess
+GetType
+ToString
+Equals
+GetHashCode
+
+
+Поля : 
+Свойства : 
+Count
+Comparer
+
+
+ICollection`1
+IEnumerable`1
+IEnumerable
+ISet`1
+IReadOnlyCollection`1
+IReadOnlySet`1
+ISerializable
+IDeserializationCallback
+
+
+Int32 item
+Int32 item
+Int32 item
+Int32 item
+Int32 equalValue
+Int32 arrayIndex
+Int32 arrayIndex
+Int32 capacity
+
+
+System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+
+
+Void .ctor()
+Void .ctor(Int32)
+Void .ctor(System.Collections.Generic.IEnumerable`1[System.Int32])
+
+
+get_Capacity
+set_Capacity
+get_Count
+get_Item
+set_Item
+Add
+AddRange
+AsReadOnly
+BinarySearch
+BinarySearch
+BinarySearch
+Clear
+Contains
+ConvertAll
+CopyTo
+CopyTo
+CopyTo
+EnsureCapacity
+Exists
+Find
+FindAll
+FindIndex
+FindIndex
+FindIndex
+FindLast
+FindLastIndex
+FindLastIndex
+FindLastIndex
+ForEach
+GetEnumerator
+GetRange
+IndexOf
+IndexOf
+IndexOf
+Insert
+InsertRange
+LastIndexOf
+LastIndexOf
+LastIndexOf
+Remove
+RemoveAll
+RemoveAt
+RemoveRange
+Reverse
+Reverse
+Sort
+Sort
+Sort
+Sort
+ToArray
+TrimExcess
+TrueForAll
+GetType
+ToString
+Equals
+GetHashCode
+
+
+Поля : 
+Свойства : 
+Capacity
+Count
+Item
+
+
+IList`1
+ICollection`1
+IEnumerable`1
+IEnumerable
+IList
+ICollection
+IReadOnlyList`1
+IReadOnlyCollection`1
+
+
+Int32 value
+Int32 index
+Int32 index
+Int32 item
+Int32 index
+Int32 item
+Int32 item
+Int32 item
+Int32 index
+Int32 arrayIndex
+Int32 capacity
+Int32 startIndex
+Int32 startIndex
+Int32 startIndex
+Int32 startIndex
+Int32 index
+Int32 item
+Int32 item
+Int32 item
+Int32 index
+Int32 index
+Int32 item
+Int32 item
+Int32 item
+Int32 item
+Int32 index
+Int32 index
+Int32 index
+Int32 index
+
+
+lab11-OOP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, System.String)
+Void .ctor(System.String, System.String, Int32, Int32)
+Void .ctor()
+
+
+get_Name
+set_Name
+get_Author
+set_Author
+get_Publish
+set_Publish
+get_Year
+set_Year
+get_NumP
+set_NumP
+get_Price
+set_Price
+get_BindingType
+set_BindingType
+get_id
+get_forSet
+ToString
+GetHashCode
+Equals
+GetType
+
+
+Поля : 
+Свойства : 
+Name
+Author
+Publish
+Year
+NumP
+Price
+BindingType
+id
+forSet
+
+
+
+
+Int32 value
+Int32 value
+Int32 value
+
+
+lab11-OOP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+
+Void .ctor()
+
+
+Print
+Find
+Computers_CollectionChanged
+Clear
+Contains
+Remove
+get_Count
+GetEnumerator
+GetObjectData
+OnDeserialization
+Add
+TryGetValue
+UnionWith
+IntersectWith
+ExceptWith
+SymmetricExceptWith
+IsSubsetOf
+IsProperSubsetOf
+IsSupersetOf
+IsProperSupersetOf
+Overlaps
+SetEquals
+CopyTo
+CopyTo
+CopyTo
+RemoveWhere
+get_Comparer
+EnsureCapacity
+TrimExcess
+GetType
+ToString
+Equals
+GetHashCode
+
+
+Поля : 
+Свойства : 
+Count
+Comparer
+
+
+ICollection`1
+IEnumerable`1
+IEnumerable
+ISet`1
+IReadOnlyCollection`1
+IReadOnlySet`1
+ISerializable
+IDeserializationCallback
+
+
+Int32 item
+Int32 item
+Int32 item
+Int32 item
+Int32 equalValue
+Int32 arrayIndex
+Int32 arrayIndex
+Int32 capacity
+
+
+System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+
+
+Void .ctor()
+Void .ctor(Int32)
+Void .ctor(System.Collections.Generic.IEnumerable`1[System.Int32])
+
+
+get_Capacity
+set_Capacity
+get_Count
+get_Item
+set_Item
+Add
+AddRange
+AsReadOnly
+BinarySearch
+BinarySearch
+BinarySearch
+Clear
+Contains
+ConvertAll
+CopyTo
+CopyTo
+CopyTo
+EnsureCapacity
+Exists
+Find
+FindAll
+FindIndex
+FindIndex
+FindIndex
+FindLast
+FindLastIndex
+FindLastIndex
+FindLastIndex
+ForEach
+GetEnumerator
+GetRange
+IndexOf
+IndexOf
+IndexOf
+Insert
+InsertRange
+LastIndexOf
+LastIndexOf
+LastIndexOf
+Remove
+RemoveAll
+RemoveAt
+RemoveRange
+Reverse
+Reverse
+Sort
+Sort
+Sort
+Sort
+ToArray
+TrimExcess
+TrueForAll
+GetType
+ToString
+Equals
+GetHashCode
+
+
+Поля : 
+Свойства : 
+Capacity
+Count
+Item
+
+
+IList`1
+ICollection`1
+IEnumerable`1
+IEnumerable
+IList
+ICollection
+IReadOnlyList`1
+IReadOnlyCollection`1
+
+
+Int32 value
+Int32 index
+Int32 index
+Int32 item
+Int32 index
+Int32 item
+Int32 item
+Int32 item
+Int32 index
+Int32 arrayIndex
+Int32 capacity
+Int32 startIndex
+Int32 startIndex
+Int32 startIndex
+Int32 startIndex
+Int32 index
+Int32 item
+Int32 item
+Int32 item
+Int32 index
+Int32 index
+Int32 item
+Int32 item
+Int32 item
+Int32 item
+Int32 index
+Int32 index
+Int32 index
+Int32 index
+
+
+lab11-OOP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, System.String)
+Void .ctor(System.String, System.String, Int32, Int32)
+Void .ctor()
+
+
+get_Name
+set_Name
+get_Author
+set_Author
+get_Publish
+set_Publish
+get_Year
+set_Year
+get_NumP
+set_NumP
+get_Price
+set_Price
+get_BindingType
+set_BindingType
+get_id
+get_forSet
+ToString
+GetHashCode
+Equals
+GetType
+
+
+Поля : 
+Свойства : 
+Name
+Author
+Publish
+Year
+NumP
+Price
+BindingType
+id
+forSet
+
+
+
+
+Int32 value
+Int32 value
+Int32 value
+
+
+lab11-OOP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+
+Void .ctor()
+
+
+Print
+Find
+Computers_CollectionChanged
+Clear
+Contains
+Remove
+get_Count
+GetEnumerator
+GetObjectData
+OnDeserialization
+Add
+TryGetValue
+UnionWith
+IntersectWith
+ExceptWith
+SymmetricExceptWith
+IsSubsetOf
+IsProperSubsetOf
+IsSupersetOf
+IsProperSupersetOf
+Overlaps
+SetEquals
+CopyTo
+CopyTo
+CopyTo
+RemoveWhere
+get_Comparer
+EnsureCapacity
+TrimExcess
+GetType
+ToString
+Equals
+GetHashCode
+
+
+Поля : 
+Свойства : 
+Count
+Comparer
+
+
+ICollection`1
+IEnumerable`1
+IEnumerable
+ISet`1
+IReadOnlyCollection`1
+IReadOnlySet`1
+ISerializable
+IDeserializationCallback
+
+
+Int32 item
+Int32 item
+Int32 item
+Int32 item
+Int32 equalValue
+Int32 arrayIndex
+Int32 arrayIndex
+Int32 capacity
+
+
+System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+
+
+Void .ctor()
+Void .ctor(Int32)
+Void .ctor(System.Collections.Generic.IEnumerable`1[System.Int32])
+
+
+get_Capacity
+set_Capacity
+get_Count
+get_Item
+set_Item
+Add
+AddRange
+AsReadOnly
+BinarySearch
+BinarySearch
+BinarySearch
+Clear
+Contains
+ConvertAll
+CopyTo
+CopyTo
+CopyTo
+EnsureCapacity
+Exists
+Find
+FindAll
+FindIndex
+FindIndex
+FindIndex
+FindLast
+FindLastIndex
+FindLastIndex
+FindLastIndex
+ForEach
+GetEnumerator
+GetRange
+IndexOf
+IndexOf
+IndexOf
+Insert
+InsertRange
+LastIndexOf
+LastIndexOf
+LastIndexOf
+Remove
+RemoveAll
+RemoveAt
+RemoveRange
+Reverse
+Reverse
+Sort
+Sort
+Sort
+Sort
+ToArray
+TrimExcess
+TrueForAll
+GetType
+ToString
+Equals
+GetHashCode
+
+
+Поля : 
+Свойства : 
+Capacity
+Count
+Item
+
+
+IList`1
+ICollection`1
+IEnumerable`1
+IEnumerable
+IList
+ICollection
+IReadOnlyList`1
+IReadOnlyCollection`1
+
+
+Int32 value
+Int32 index
+Int32 index
+Int32 item
+Int32 index
+Int32 item
+Int32 item
+Int32 item
+Int32 index
+Int32 arrayIndex
+Int32 capacity
+Int32 startIndex
+Int32 startIndex
+Int32 startIndex
+Int32 startIndex
+Int32 index
+Int32 item
+Int32 item
+Int32 item
+Int32 index
+Int32 index
+Int32 item
+Int32 item
+Int32 item
+Int32 item
+Int32 index
+Int32 index
+Int32 index
+Int32 index
+
+
+lab11-OOP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, System.String)
+Void .ctor(System.String, System.String, Int32, Int32)
+Void .ctor()
+
+
+get_Name
+set_Name
+get_Author
+set_Author
+get_Publish
+set_Publish
+get_Year
+set_Year
+get_NumP
+set_NumP
+get_Price
+set_Price
+get_BindingType
+set_BindingType
+get_id
+get_forSet
+ToString
+GetHashCode
+Equals
+GetType
+
+
+Поля : 
+Свойства : 
+Name
+Author
+Publish
+Year
+NumP
+Price
+BindingType
+id
+forSet
+
+
+
+
+Int32 value
+Int32 value
+Int32 value
+
+
+lab11-OOP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+
+Void .ctor()
+
+
+Print
+Find
+Computers_CollectionChanged
+Clear
+Contains
+Remove
+get_Count
+GetEnumerator
+GetObjectData
+OnDeserialization
+Add
+TryGetValue
+UnionWith
+IntersectWith
+ExceptWith
+SymmetricExceptWith
+IsSubsetOf
+IsProperSubsetOf
+IsSupersetOf
+IsProperSupersetOf
+Overlaps
+SetEquals
+CopyTo
+CopyTo
+CopyTo
+RemoveWhere
+get_Comparer
+EnsureCapacity
+TrimExcess
+GetType
+ToString
+Equals
+GetHashCode
+
+
+Поля : 
+Свойства : 
+Count
+Comparer
+
+
+ICollection`1
+IEnumerable`1
+IEnumerable
+ISet`1
+IReadOnlyCollection`1
+IReadOnlySet`1
+ISerializable
+IDeserializationCallback
+
+
+Int32 item
+Int32 item
+Int32 item
+Int32 item
+Int32 equalValue
+Int32 arrayIndex
+Int32 arrayIndex
+Int32 capacity
+
+
+System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+
+
+Void .ctor()
+Void .ctor(Int32)
+Void .ctor(System.Collections.Generic.IEnumerable`1[System.Int32])
+
+
+get_Capacity
+set_Capacity
+get_Count
+get_Item
+set_Item
+Add
+AddRange
+AsReadOnly
+BinarySearch
+BinarySearch
+BinarySearch
+Clear
+Contains
+ConvertAll
+CopyTo
+CopyTo
+CopyTo
+EnsureCapacity
+Exists
+Find
+FindAll
+FindIndex
+FindIndex
+FindIndex
+FindLast
+FindLastIndex
+FindLastIndex
+FindLastIndex
+ForEach
+GetEnumerator
+GetRange
+IndexOf
+IndexOf
+IndexOf
+Insert
+InsertRange
+LastIndexOf
+LastIndexOf
+LastIndexOf
+Remove
+RemoveAll
+RemoveAt
+RemoveRange
+Reverse
+Reverse
+Sort
+Sort
+Sort
+Sort
+ToArray
+TrimExcess
+TrueForAll
+GetType
+ToString
+Equals
+GetHashCode
+
+
+Поля : 
+Свойства : 
+Capacity
+Count
+Item
+
+
+IList`1
+ICollection`1
+IEnumerable`1
+IEnumerable
+IList
+ICollection
+IReadOnlyList`1
+IReadOnlyCollection`1
+
+
+Int32 value
+Int32 index
+Int32 index
+Int32 item
+Int32 index
+Int32 item
+Int32 item
+Int32 item
+Int32 index
+Int32 arrayIndex
+Int32 capacity
+Int32 startIndex
+Int32 startIndex
+Int32 startIndex
+Int32 startIndex
+Int32 index
+Int32 item
+Int32 item
+Int32 item
+Int32 index
+Int32 index
+Int32 item
+Int32 item
+Int32 item
+Int32 item
+Int32 index
+Int32 index
+Int32 index
+Int32 index
+
+

@@ -1,0 +1,155 @@
+19.12.2022 07:36:00 Использованы Name, DriveFormat, DriveType, TotalFreeSpace, TotalSize, VolumeLabel класса KAVDiskInfo
+19.12.2022 07:36:00 Использованы FullName, Lenght, Extension, Name, GetCreationTime(), GetLastWriteTime() класса KAVFileInfo
+19.12.2022 07:36:00 Использованы GetFiles().Lenght, CreationTme, GetDirectories().Length, Parent класса KAVDirInfo
+19.12.2022 07:36:00 Создана директория KAVInspect
+19.12.2022 07:36:00 Создан Файл KAVDirInfo.txt
+19.12.2022 07:36:00 Создана копия Файла KAVDirInfo.txt
+19.12.2022 07:36:00 Удалён Файл KAVDirInfo.txt
+19.12.2022 07:36:00 Создана директория KAVFiles
+19.12.2022 07:36:00 Перемещена директория KAVFiles
+19.12.2022 07:36:01 Архивирована директория KAVFiles
+19.12.2022 07:36:01 Создана директория Archive1
+19.12.2022 07:36:01 Разархивировано в джиректорию KAVFiles
+19.12.2022 07:43:42 Использованы Name, DriveFormat, DriveType, TotalFreeSpace, TotalSize, VolumeLabel класса KAVDiskInfo
+19.12.2022 07:43:42 Использованы FullName, Lenght, Extension, Name, GetCreationTime(), GetLastWriteTime() класса KAVFileInfo
+19.12.2022 07:43:42 Использованы GetFiles().Lenght, CreationTme, GetDirectories().Length, Parent класса KAVDirInfo
+19.12.2022 07:43:42 Создана директория KAVInspect
+19.12.2022 07:43:42 Создан Файл KAVDirInfo.txt
+19.12.2022 07:44:06 Использованы Name, DriveFormat, DriveType, TotalFreeSpace, TotalSize, VolumeLabel класса KAVDiskInfo
+19.12.2022 07:44:06 Использованы FullName, Lenght, Extension, Name, GetCreationTime(), GetLastWriteTime() класса KAVFileInfo
+19.12.2022 07:44:06 Использованы GetFiles().Lenght, CreationTme, GetDirectories().Length, Parent класса KAVDirInfo
+19.12.2022 07:44:06 Создана директория KAVInspect
+19.12.2022 07:44:06 Создан Файл KAVDirInfo.txt
+19.12.2022 07:44:06 Создана копия Файла KAVDirInfo.txt
+19.12.2022 07:44:06 Удалён Файл KAVDirInfo.txt
+19.12.2022 07:44:06 Создана директория KAVFiles
+19.12.2022 07:44:06 Перемещена директория KAVFiles
+19.12.2022 07:44:06 Архивирована директория KAVFiles
+19.12.2022 07:44:06 Создана директория Archive1
+19.12.2022 07:44:07 Разархивировано в джиректорию KAVFiles
+19.12.2022 07:45:03 Использованы Name, DriveFormat, DriveType, TotalFreeSpace, TotalSize, VolumeLabel класса KAVDiskInfo
+19.12.2022 07:45:03 Использованы FullName, Lenght, Extension, Name, GetCreationTime(), GetLastWriteTime() класса KAVFileInfo
+19.12.2022 07:45:03 Использованы GetFiles().Lenght, CreationTme, GetDirectories().Length, Parent класса KAVDirInfo
+19.12.2022 07:45:03 Создана директория KAVInspect
+19.12.2022 07:45:03 Создан Файл KAVDirInfo.txt
+19.12.2022 07:45:03 Создана копия Файла KAVDirInfo.txt
+19.12.2022 07:45:03 Удалён Файл KAVDirInfo.txt
+19.12.2022 07:45:03 Создана директория KAVFiles
+19.12.2022 07:45:03 Перемещена директория KAVFiles
+19.12.2022 07:45:03 Архивирована директория KAVFiles
+19.12.2022 07:45:03 Создана директория Archive1
+19.12.2022 07:45:03 Разархивировано в джиректорию KAVFiles
+19.12.2022 07:46:17 Использованы Name, DriveFormat, DriveType, TotalFreeSpace, TotalSize, VolumeLabel класса KAVDiskInfo
+19.12.2022 07:46:17 Использованы FullName, Lenght, Extension, Name, GetCreationTime(), GetLastWriteTime() класса KAVFileInfo
+19.12.2022 07:46:17 Использованы GetFiles().Lenght, CreationTme, GetDirectories().Length, Parent класса KAVDirInfo
+19.12.2022 07:46:17 Создана директория KAVInspect
+19.12.2022 07:46:17 Создан Файл KAVDirInfo.txt
+19.12.2022 07:46:36 Использованы Name, DriveFormat, DriveType, TotalFreeSpace, TotalSize, VolumeLabel класса KAVDiskInfo
+19.12.2022 07:46:36 Использованы FullName, Lenght, Extension, Name, GetCreationTime(), GetLastWriteTime() класса KAVFileInfo
+19.12.2022 07:46:36 Использованы GetFiles().Lenght, CreationTme, GetDirectories().Length, Parent класса KAVDirInfo
+19.12.2022 07:46:36 Создана директория KAVInspect
+19.12.2022 07:46:36 Создан Файл KAVDirInfo.txt
+19.12.2022 07:46:36 Создана копия Файла KAVDirInfo.txt
+19.12.2022 07:46:36 Удалён Файл KAVDirInfo.txt
+19.12.2022 07:46:36 Создана директория KAVFiles
+19.12.2022 07:46:36 Перемещена директория KAVFiles
+19.12.2022 07:46:36 Архивирована директория KAVFiles
+19.12.2022 07:46:36 Создана директория Archive1
+19.12.2022 07:46:36 Разархивировано в директорию KAVFiles
+19.12.2022 07:47:05 Использованы Name, DriveFormat, DriveType, TotalFreeSpace, TotalSize, VolumeLabel класса KAVDiskInfo
+19.12.2022 07:47:05 Использованы FullName, Lenght, Extension, Name, GetCreationTime(), GetLastWriteTime() класса KAVFileInfo
+19.12.2022 07:47:05 Использованы GetFiles().Lenght, CreationTme, GetDirectories().Length, Parent класса KAVDirInfo
+19.12.2022 07:47:05 Создана директория KAVInspect
+19.12.2022 07:47:05 Создан Файл KAVDirInfo.txt
+19.12.2022 07:47:16 Использованы Name, DriveFormat, DriveType, TotalFreeSpace, TotalSize, VolumeLabel класса KAVDiskInfo
+19.12.2022 07:47:16 Использованы FullName, Lenght, Extension, Name, GetCreationTime(), GetLastWriteTime() класса KAVFileInfo
+19.12.2022 07:47:16 Использованы GetFiles().Lenght, CreationTme, GetDirectories().Length, Parent класса KAVDirInfo
+19.12.2022 07:47:16 Создана директория KAVInspect
+19.12.2022 07:47:16 Создан Файл KAVDirInfo.txt
+19.12.2022 07:47:17 Создана копия Файла KAVDirInfo.txt
+19.12.2022 07:47:17 Удалён Файл KAVDirInfo.txt
+19.12.2022 07:47:17 Создана директория KAVFiles
+19.12.2022 07:47:17 Перемещена директория KAVFiles
+19.12.2022 07:47:17 Архивирована директория KAVFiles
+19.12.2022 07:47:17 Создана директория Archive1
+19.12.2022 07:47:17 Разархивировано в директорию KAVFiles
+19.12.2022 08:51:24 Использованы Name, DriveFormat, DriveType, TotalFreeSpace, TotalSize, VolumeLabel класса KAVDiskInfo
+19.12.2022 08:51:24 Использованы FullName, Lenght, Extension, Name, GetCreationTime(), GetLastWriteTime() класса KAVFileInfo
+19.12.2022 08:51:24 Использованы GetFiles().Lenght, CreationTme, GetDirectories().Length, Parent класса KAVDirInfo
+19.12.2022 08:51:24 Создана директория KAVInspect
+19.12.2022 08:51:24 Создан Файл KAVDirInfo.txt
+19.12.2022 08:52:41 Использованы Name, DriveFormat, DriveType, TotalFreeSpace, TotalSize, VolumeLabel класса KAVDiskInfo
+19.12.2022 08:52:41 Использованы FullName, Lenght, Extension, Name, GetCreationTime(), GetLastWriteTime() класса KAVFileInfo
+19.12.2022 08:52:41 Использованы GetFiles().Lenght, CreationTme, GetDirectories().Length, Parent класса KAVDirInfo
+19.12.2022 08:52:41 Создана директория KAVInspect
+19.12.2022 08:52:41 Создан Файл KAVDirInfo.txt
+19.12.2022 08:52:41 Создана копия Файла KAVDirInfo.txt
+19.12.2022 08:52:41 Удалён Файл KAVDirInfo.txt
+19.12.2022 08:52:41 Создана директория KAVFiles
+19.12.2022 08:52:41 Перемещена директория KAVFiles
+19.12.2022 08:52:41 Архивирована директория KAVFiles
+19.12.2022 08:52:41 Создана директория Archive1
+19.12.2022 08:52:41 Разархивировано в директорию KAVFiles
+19.12.2022 08:54:08 Использованы Name, DriveFormat, DriveType, TotalFreeSpace, TotalSize, VolumeLabel класса KAVDiskInfo
+19.12.2022 08:54:08 Использованы FullName, Lenght, Extension, Name, GetCreationTime(), GetLastWriteTime() класса KAVFileInfo
+19.12.2022 08:54:08 Использованы GetFiles().Lenght, CreationTme, GetDirectories().Length, Parent класса KAVDirInfo
+19.12.2022 08:54:08 Создана директория KAVInspect
+19.12.2022 08:54:08 Создан Файл KAVDirInfo.txt
+19.12.2022 08:54:08 Создана копия Файла KAVDirInfo.txt
+19.12.2022 08:54:08 Удалён Файл KAVDirInfo.txt
+19.12.2022 08:54:08 Создана директория KAVFiles
+19.12.2022 08:54:08 Перемещена директория KAVFiles
+19.12.2022 08:54:08 Архивирована директория KAVFiles
+19.12.2022 08:54:08 Создана директория Archive1
+19.12.2022 08:54:08 Разархивировано в директорию KAVFiles
+20.12.2022 13:56:18 Использованы Name, DriveFormat, DriveType, TotalFreeSpace, TotalSize, VolumeLabel класса KAVDiskInfo
+20.12.2022 13:56:18 Использованы FullName, Lenght, Extension, Name, GetCreationTime(), GetLastWriteTime() класса KAVFileInfo
+20.12.2022 13:56:18 Использованы GetFiles().Lenght, CreationTme, GetDirectories().Length, Parent класса KAVDirInfo
+20.12.2022 13:56:18 Создана директория KAVInspect
+20.12.2022 13:56:18 Создан Файл KAVDirInfo.txt
+20.12.2022 13:56:31 Использованы Name, DriveFormat, DriveType, TotalFreeSpace, TotalSize, VolumeLabel класса KAVDiskInfo
+20.12.2022 13:56:31 Использованы FullName, Lenght, Extension, Name, GetCreationTime(), GetLastWriteTime() класса KAVFileInfo
+20.12.2022 13:56:31 Использованы GetFiles().Lenght, CreationTme, GetDirectories().Length, Parent класса KAVDirInfo
+20.12.2022 13:56:31 Создана директория KAVInspect
+20.12.2022 13:56:31 Создан Файл KAVDirInfo.txt
+20.12.2022 13:56:31 Создана копия Файла KAVDirInfo.txt
+20.12.2022 13:56:31 Удалён Файл KAVDirInfo.txt
+20.12.2022 13:56:31 Создана директория KAVFiles
+20.12.2022 13:56:31 Перемещена директория KAVFiles
+20.12.2022 13:56:31 Архивирована директория KAVFiles
+20.12.2022 13:56:31 Создана директория Archive1
+20.12.2022 13:56:31 Разархивировано в директорию KAVFiles
+20.12.2022 13:59:45 Использованы Name, DriveFormat, DriveType, TotalFreeSpace, TotalSize, VolumeLabel класса KAVDiskInfo
+20.12.2022 13:59:45 Использованы FullName, Lenght, Extension, Name, GetCreationTime(), GetLastWriteTime() класса KAVFileInfo
+20.12.2022 13:59:45 Использованы GetFiles().Lenght, CreationTme, GetDirectories().Length, Parent класса KAVDirInfo
+20.12.2022 13:59:45 Создана директория KAVInspect
+20.12.2022 13:59:45 Создан Файл KAVDirInfo.txt
+20.12.2022 13:59:57 Использованы Name, DriveFormat, DriveType, TotalFreeSpace, TotalSize, VolumeLabel класса KAVDiskInfo
+20.12.2022 13:59:57 Использованы FullName, Lenght, Extension, Name, GetCreationTime(), GetLastWriteTime() класса KAVFileInfo
+20.12.2022 13:59:57 Использованы GetFiles().Lenght, CreationTme, GetDirectories().Length, Parent класса KAVDirInfo
+20.12.2022 13:59:57 Создана директория KAVInspect
+20.12.2022 13:59:57 Создан Файл KAVDirInfo.txt
+20.12.2022 13:59:57 Создана копия Файла KAVDirInfo.txt
+20.12.2022 13:59:57 Удалён Файл KAVDirInfo.txt
+20.12.2022 13:59:57 Создана директория KAVFiles
+20.12.2022 13:59:57 Перемещена директория KAVFiles
+20.12.2022 13:59:57 Архивирована директория KAVFiles
+20.12.2022 13:59:57 Создана директория Archive1
+20.12.2022 13:59:57 Разархивировано в директорию KAVFiles
+21.12.2022 15:07:59 Использованы Name, DriveFormat, DriveType, TotalFreeSpace, TotalSize, VolumeLabel класса KAVDiskInfo
+21.12.2022 15:07:59 Использованы FullName, Lenght, Extension, Name, GetCreationTime(), GetLastWriteTime() класса KAVFileInfo
+21.12.2022 15:07:59 Использованы GetFiles().Lenght, CreationTme, GetDirectories().Length, Parent класса KAVDirInfo
+21.12.2022 15:07:59 Создана директория KAVInspect
+21.12.2022 15:07:59 Создан Файл KAVDirInfo.txt
+21.12.2022 15:08:31 Использованы Name, DriveFormat, DriveType, TotalFreeSpace, TotalSize, VolumeLabel класса KAVDiskInfo
+21.12.2022 15:08:31 Использованы FullName, Lenght, Extension, Name, GetCreationTime(), GetLastWriteTime() класса KAVFileInfo
+21.12.2022 15:08:31 Использованы GetFiles().Lenght, CreationTme, GetDirectories().Length, Parent класса KAVDirInfo
+21.12.2022 15:08:31 Создана директория KAVInspect
+21.12.2022 15:08:31 Создан Файл KAVDirInfo.txt
+21.12.2022 15:08:31 Создана копия Файла KAVDirInfo.txt
+21.12.2022 15:08:31 Удалён Файл KAVDirInfo.txt
+21.12.2022 15:08:31 Создана директория KAVFiles
+21.12.2022 15:08:31 Перемещена директория KAVFiles
+21.12.2022 15:08:31 Архивирована директория KAVFiles
+21.12.2022 15:08:31 Создана директория Archive1
+21.12.2022 15:08:31 Разархивировано в директорию KAVFiles

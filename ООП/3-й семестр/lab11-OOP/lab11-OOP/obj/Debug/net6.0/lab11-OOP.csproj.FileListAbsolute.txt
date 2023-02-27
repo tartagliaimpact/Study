@@ -1,0 +1,15 @@
+C:\Users\Arsik\Desktop\lab11-OOP\lab11-OOP\obj\Debug\net6.0\lab11-OOP.csproj.AssemblyReference.cache
+C:\Users\Arsik\Desktop\lab11-OOP\lab11-OOP\obj\Debug\net6.0\lab11-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsik\Desktop\lab11-OOP\lab11-OOP\obj\Debug\net6.0\lab11-OOP.AssemblyInfoInputs.cache
+C:\Users\Arsik\Desktop\lab11-OOP\lab11-OOP\obj\Debug\net6.0\lab11-OOP.AssemblyInfo.cs
+C:\Users\Arsik\Desktop\lab11-OOP\lab11-OOP\obj\Debug\net6.0\lab11-OOP.csproj.CoreCompileInputs.cache
+C:\Users\Arsik\Desktop\lab11-OOP\lab11-OOP\bin\Debug\net6.0\lab11-OOP.exe
+C:\Users\Arsik\Desktop\lab11-OOP\lab11-OOP\bin\Debug\net6.0\lab11-OOP.deps.json
+C:\Users\Arsik\Desktop\lab11-OOP\lab11-OOP\bin\Debug\net6.0\lab11-OOP.runtimeconfig.json
+C:\Users\Arsik\Desktop\lab11-OOP\lab11-OOP\bin\Debug\net6.0\lab11-OOP.dll
+C:\Users\Arsik\Desktop\lab11-OOP\lab11-OOP\bin\Debug\net6.0\ref\lab11-OOP.dll
+C:\Users\Arsik\Desktop\lab11-OOP\lab11-OOP\bin\Debug\net6.0\lab11-OOP.pdb
+C:\Users\Arsik\Desktop\lab11-OOP\lab11-OOP\obj\Debug\net6.0\lab11-OOP.dll
+C:\Users\Arsik\Desktop\lab11-OOP\lab11-OOP\obj\Debug\net6.0\ref\lab11-OOP.dll
+C:\Users\Arsik\Desktop\lab11-OOP\lab11-OOP\obj\Debug\net6.0\lab11-OOP.pdb
+C:\Users\Arsik\Desktop\lab11-OOP\lab11-OOP\obj\Debug\net6.0\lab11-OOP.genruntimeconfig.cache
