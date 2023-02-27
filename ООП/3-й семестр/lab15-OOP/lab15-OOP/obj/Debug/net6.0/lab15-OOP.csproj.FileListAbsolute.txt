@@ -1,0 +1,30 @@
+C:\Users\Arsik\Desktop\lab15-OOP\lab15-OOP\bin\Debug\net6.0\lab15-OOP.exe
+C:\Users\Arsik\Desktop\lab15-OOP\lab15-OOP\bin\Debug\net6.0\lab15-OOP.deps.json
+C:\Users\Arsik\Desktop\lab15-OOP\lab15-OOP\bin\Debug\net6.0\lab15-OOP.runtimeconfig.json
+C:\Users\Arsik\Desktop\lab15-OOP\lab15-OOP\bin\Debug\net6.0\lab15-OOP.dll
+C:\Users\Arsik\Desktop\lab15-OOP\lab15-OOP\bin\Debug\net6.0\ref\lab15-OOP.dll
+C:\Users\Arsik\Desktop\lab15-OOP\lab15-OOP\bin\Debug\net6.0\lab15-OOP.pdb
+C:\Users\Arsik\Desktop\lab15-OOP\lab15-OOP\obj\Debug\net6.0\lab15-OOP.csproj.AssemblyReference.cache
+C:\Users\Arsik\Desktop\lab15-OOP\lab15-OOP\obj\Debug\net6.0\lab15-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsik\Desktop\lab15-OOP\lab15-OOP\obj\Debug\net6.0\lab15-OOP.AssemblyInfoInputs.cache
+C:\Users\Arsik\Desktop\lab15-OOP\lab15-OOP\obj\Debug\net6.0\lab15-OOP.AssemblyInfo.cs
+C:\Users\Arsik\Desktop\lab15-OOP\lab15-OOP\obj\Debug\net6.0\lab15-OOP.csproj.CoreCompileInputs.cache
+C:\Users\Arsik\Desktop\lab15-OOP\lab15-OOP\obj\Debug\net6.0\lab15-OOP.dll
+C:\Users\Arsik\Desktop\lab15-OOP\lab15-OOP\obj\Debug\net6.0\ref\lab15-OOP.dll
+C:\Users\Arsik\Desktop\lab15-OOP\lab15-OOP\obj\Debug\net6.0\lab15-OOP.pdb
+C:\Users\Arsik\Desktop\lab15-OOP\lab15-OOP\obj\Debug\net6.0\lab15-OOP.genruntimeconfig.cache
+C:\Users\Arsik\Desktop\3-й семестр\ООП\lab15-OOP\lab15-OOP\bin\Debug\net6.0\lab15-OOP.exe
+C:\Users\Arsik\Desktop\3-й семестр\ООП\lab15-OOP\lab15-OOP\bin\Debug\net6.0\lab15-OOP.deps.json
+C:\Users\Arsik\Desktop\3-й семестр\ООП\lab15-OOP\lab15-OOP\bin\Debug\net6.0\lab15-OOP.runtimeconfig.json
+C:\Users\Arsik\Desktop\3-й семестр\ООП\lab15-OOP\lab15-OOP\bin\Debug\net6.0\lab15-OOP.dll
+C:\Users\Arsik\Desktop\3-й семестр\ООП\lab15-OOP\lab15-OOP\bin\Debug\net6.0\ref\lab15-OOP.dll
+C:\Users\Arsik\Desktop\3-й семестр\ООП\lab15-OOP\lab15-OOP\bin\Debug\net6.0\lab15-OOP.pdb
+C:\Users\Arsik\Desktop\3-й семестр\ООП\lab15-OOP\lab15-OOP\obj\Debug\net6.0\lab15-OOP.csproj.AssemblyReference.cache
+C:\Users\Arsik\Desktop\3-й семестр\ООП\lab15-OOP\lab15-OOP\obj\Debug\net6.0\lab15-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsik\Desktop\3-й семестр\ООП\lab15-OOP\lab15-OOP\obj\Debug\net6.0\lab15-OOP.AssemblyInfoInputs.cache
+C:\Users\Arsik\Desktop\3-й семестр\ООП\lab15-OOP\lab15-OOP\obj\Debug\net6.0\lab15-OOP.AssemblyInfo.cs
+C:\Users\Arsik\Desktop\3-й семестр\ООП\lab15-OOP\lab15-OOP\obj\Debug\net6.0\lab15-OOP.csproj.CoreCompileInputs.cache
+C:\Users\Arsik\Desktop\3-й семестр\ООП\lab15-OOP\lab15-OOP\obj\Debug\net6.0\lab15-OOP.dll
+C:\Users\Arsik\Desktop\3-й семестр\ООП\lab15-OOP\lab15-OOP\obj\Debug\net6.0\ref\lab15-OOP.dll
+C:\Users\Arsik\Desktop\3-й семестр\ООП\lab15-OOP\lab15-OOP\obj\Debug\net6.0\lab15-OOP.pdb
+C:\Users\Arsik\Desktop\3-й семестр\ООП\lab15-OOP\lab15-OOP\obj\Debug\net6.0\lab15-OOP.genruntimeconfig.cache
